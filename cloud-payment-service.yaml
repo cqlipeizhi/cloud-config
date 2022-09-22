@@ -1,6 +1,6 @@
 server:
   port: 8201
-  info: version=3
+  info: version=4
 
 spring:
 #   application:
